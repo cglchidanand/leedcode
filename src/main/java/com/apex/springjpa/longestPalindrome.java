@@ -1,5 +1,6 @@
 package com.apex.springjpa;
 
+//longest Palindrome
 public  int longestPalindrome(String s) {
 
     Map<Character,Integer> map = new HashMap();
